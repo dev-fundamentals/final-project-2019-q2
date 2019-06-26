@@ -1,4 +1,4 @@
-# final-project-2019-q2
+## final-project-2019-q2
 
 [![Build status](https://travis-ci.com/dev-fundamentals/final-project-2019-q2.svg?branch=develop)](https://travis-ci.com/dev-fundamentals/final-project-2019-q2) 
 
